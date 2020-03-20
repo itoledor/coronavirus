@@ -15,9 +15,9 @@ covid19_chile_actual <- read_rds(here("data","covid19_chile.rds"))
 covid19_chile_actual <- covid19_chile_actual %>% filter(region == "Total")
 covid19_chile_actual <- covid19_chile_actual %>% filter(fecha  == max(fecha))
 
-status <- paste("Actualización\r",
-                "Casos nuevos:" , covid19_chile_actual$casos_nuevos,"\r",
-                "Casos totales:", covid19_chile_actual$casos_totales,"\r",
+status <- paste("Actualización\r\n",
+                "Casos nuevos:" , covid19_chile_actual$casos_nuevos,"\r\n",
+                "Casos totales:", covid19_chile_actual$casos_totales,"\r\n",
                 "#AplanarLaCurva #rtweet #rstats")
 
 rtweet::post_tweet(status = status, token = token, media = here("figs",paste0("covid19_chile_",Sys.Date(),"_2.png")))
