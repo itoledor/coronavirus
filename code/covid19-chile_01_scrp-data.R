@@ -2,7 +2,7 @@ library(here)
 source(here("code","covid19-chile_00_libraries.R"))
 
 covid19_chile <- read_html('https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/')
-covid19_chile <- covid19_chile %>% html_nodes(css = '#main table:nth-child(1) tr~ tr+ tr td')
+covid19_chile <- covid19_chile %>% html_nodes(css = 'table:nth-child(2) tr~ tr+ tr td')
 covid19_chile <- covid19_chile %>% html_text()
 covid19_chile <- covid19_chile %>% matrix(ncol = 3, byrow = TRUE)
 covid19_chile <- covid19_chile %>% as_tibble()
