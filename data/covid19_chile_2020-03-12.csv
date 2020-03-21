@@ -1,18 +1,18 @@
-region;casos_nuevos;casos_totales;fecha
-Arica y Parinacota; 0; 0;2020-03-12
-Tarapacá; 0; 0;2020-03-12
-Antofagasta; 0; 0;2020-03-12
-Atacama; 0; 0;2020-03-12
-Coquimbo; 0; 0;2020-03-12
-Valparaíso; 0; 0;2020-03-12
-Metropolitana; 9;23;2020-03-12
-O’Higgins; 0; 0;2020-03-12
-Maule; 0; 7;2020-03-12
-Ñuble; 1; 1;2020-03-12
-Biobío; 0; 1;2020-03-12
-Araucanía; 0; 0;2020-03-12
-Los Ríos; 0; 0;2020-03-12
-Los Lagos; 0; 1;2020-03-12
-Aysén; 0; 0;2020-03-12
-Magallanes; 0; 0;2020-03-12
-Total;10;33;2020-03-12
+region;casos_nuevos;casos_totales;casos_recuperados;fecha
+Arica y Parinacota; 0; 0;0;2020-03-12
+Tarapacá; 0; 0;0;2020-03-12
+Antofagasta; 0; 0;0;2020-03-12
+Atacama; 0; 0;0;2020-03-12
+Coquimbo; 0; 0;0;2020-03-12
+Valparaíso; 0; 0;0;2020-03-12
+Metropolitana; 9;23;0;2020-03-12
+O’Higgins; 0; 0;0;2020-03-12
+Maule; 0; 7;0;2020-03-12
+Ñuble; 1; 1;0;2020-03-12
+Biobío; 0; 1;0;2020-03-12
+Araucanía; 0; 0;0;2020-03-12
+Los Ríos; 0; 0;0;2020-03-12
+Los Lagos; 0; 1;0;2020-03-12
+Aysén; 0; 0;0;2020-03-12
+Magallanes; 0; 0;0;2020-03-12
+Total;10;33;0;2020-03-12

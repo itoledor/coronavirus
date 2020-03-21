@@ -6,8 +6,12 @@ paleta <- c(brewer.pal(n = 8, 'YlOrRd') %>% rev, brewer.pal(n = 9, 'YlGnBu') %>%
 covid19_chile <- read_rds(here("data","covid19_chile.rds"))
 
 covid19_chile_gg_1 <- covid19_chile      %>% filter(region == 'Total')
-covid19_chile_gg_1 <- covid19_chile_gg_1 %>% ggplot(aes(x = fecha, y = casos_totales, color = region))
+covid19_chile_gg_1 <- covid19_chile_gg_1 %>% pivot_longer(starts_with('casos'), names_to = 'casos', names_prefix = 'casos_', values_to = 'Total')
+covid19_chile_gg_1 <- covid19_chile_gg_1 %>% filter(casos %in% c('totales', 'recuperados'))
+covid19_chile_gg_1 <- covid19_chile_gg_1 %>% mutate(casos = casos %>% str_replace('totales','confirmados'))
+covid19_chile_gg_1 <- covid19_chile_gg_1 %>% ggplot(aes(x = fecha, y = Total, color = casos))
 covid19_chile_gg_1 <- covid19_chile_gg_1 %+% geom_point(size = 4)
+covid19_chile_gg_1 <- covid19_chile_gg_1 %+% geom_line()
 covid19_chile_gg_1 <- covid19_chile_gg_1 %+% labs(title   = "COVID19 Casos confirmados en Chile")
 covid19_chile_gg_1 <- covid19_chile_gg_1 %+% labs(y       = "Total casos confirmados")
 covid19_chile_gg_1 <- covid19_chile_gg_1 %+% labs(caption	= "Fuente: https://www.minsal.cl/\n @NachoToledoR")
