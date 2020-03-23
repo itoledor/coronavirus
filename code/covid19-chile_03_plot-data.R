@@ -17,7 +17,7 @@ covid19_chile_gg_1 <- covid19_chile_gg_1 %+% labs(y       = "Total casos confirm
 covid19_chile_gg_1 <- covid19_chile_gg_1 %+% labs(caption	= "Fuente: https://www.minsal.cl/\n @NachoToledoR")
 covid19_chile_gg_1 <- covid19_chile_gg_1 %+% theme_minimal()
 covid19_chile_gg_1 <- covid19_chile_gg_1 %+% theme(axis.text.x = element_text(angle = 45, hjust = 1))
-covid19_chile_gg_1
+covid19_chile_gg_1 
 
 covid19_chile_gg_2 <- covid19_chile      %>% filter(region != 'Total')
 covid19_chile_gg_2 <- covid19_chile_gg_2 %>% ggplot(aes(x = fecha, y = casos_totales, fill = region %>% fct_inorder))
