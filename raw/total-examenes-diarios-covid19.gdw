@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetDataWorkspace>
+  <version>2.26.0.20</version>
+  <WSversion>10</WSversion>
+  <File>
+    <Name>C:\Users\nacho\Desktop\Sin título.bmp</Name>
+    <Width>26196</Width>
+    <Height>9950</Height>
+  </File>
+  <Line>
+    <Caption>Línea #1</Caption>
+    <LineColor>79,129,189</LineColor>
+    <BkColor>254,254,254</BkColor>
+    <PtColor>220,70,220</PtColor>
+    <LineType>0</LineType>
+    <Points MF="9">23566,79962,49516,81017,57992,80223,66721,80914,75352,80671,83983,80410,92686,79701,101244,75731,109874,75463,118505,68853</Points>
+    <Points MF="9">127134,60385,135849,64353,144395,55101,153058,22828,161535,27328,170284,37912,178917,45841,187549,6699,196179,53780,204809,35265</Points>
+    <Points MF="9">213438,30505</Points>
+  </Line>
+  <CurrentLine>0</CurrentLine>
+  <Xmin MF="9">23569,82072,1.000000e+000</Xmin>
+  <Xmax MF="9">213439,82075,2.300000e+001</Xmax>
+  <Ymin MF="9">25816,82072,0.000000e+000</Ymin>
+  <Ymax MF="9">25816,3388,1.400000e+003</Ymax>
+  <XScale>linear</XScale>
+  <YScale>linear</YScale>
+  <Position>14605,-5</Position>
+  <Zoom>
+    <Scale>10.0</Scale>
+  </Zoom>
+  <Digitize>
+    <IgnorePixels>1</IgnorePixels>
+    <LineIDMethod>2</LineIDMethod>
+  </Digitize>
+  <AutoTrace>
+    <TraceDistance>8</TraceDistance>
+    <SmoothLines>1</SmoothLines>
+  </AutoTrace>
+  <DigitizeArea>
+    <LineOrArea>0</LineOrArea>
+    <RotateAngle>0.000000</RotateAngle>
+    <dx>8.000000</dx>
+  </DigitizeArea>
+  <GridSettings>
+    <ShowGrid>1</ShowGrid>
+    <AreaType>1</AreaType>
+    <deltaX>1.00000000000000e+000</deltaX>
+    <deltaY>2.00000000000000e+002</deltaY>
+    <deltaXUnits>1</deltaXUnits>
+    <deltaYUnits>1</deltaYUnits>
+    <GoThroughX>1.00000000000000e+000</GoThroughX>
+    <GoThroughY>0.00000000000000e+000</GoThroughY>
+    <dx>100.000000</dx>
+    <dy>100.000000</dy>
+  </GridSettings>
+</GetDataWorkspace>

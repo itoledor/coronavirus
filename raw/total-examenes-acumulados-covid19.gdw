@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetDataWorkspace>
+  <version>2.26.0.20</version>
+  <WSversion>10</WSversion>
+  <File>
+    <Name>C:\Users\nacho\Desktop\Sin título.bmp</Name>
+    <Width>26196</Width>
+    <Height>9950</Height>
+  </File>
+  <Line>
+    <Caption>Línea #1</Caption>
+    <LineColor>79,129,189</LineColor>
+    <BkColor>254,254,254</BkColor>
+    <PtColor>220,70,220</PtColor>
+    <LineType>0</LineType>
+    <Points MF="9">25816,82066,25816,81283,51718,81805,51709,81013,60349,81544,60343,80752,68976,81285,68977,80491,77607,81013,77606,80221</Points>
+    <Points MF="9">86239,80755,86239,79958,94871,79662,94871,80466,103502,79159,103503,78359,112134,78114,112135,77305,120766,75703,120766,74842</Points>
+    <Points MF="9">129400,72047,129399,71196,138028,67902,138029,68801,146663,64100,146663,62977,155295,54018,155294,52809,163926,44302,163927,43198</Points>
+    <Points MF="9">172559,36431,172558,35405,181190,29935,181189,28578,189820,16952,189821,15859,198452,12057,198453,11068,207085,3262</Points>
+  </Line>
+  <CurrentLine>0</CurrentLine>
+  <Xmin MF="9">25816,82219,1.000000e+000</Xmin>
+  <Xmax MF="9">207085,82192,2.200000e+001</Xmax>
+  <Ymin MF="9">25816,82219,0.000000e+000</Ymin>
+  <Ymax MF="9">25816,3388,8.000000e+003</Ymax>
+  <XScale>linear</XScale>
+  <YScale>linear</YScale>
+  <Position>8233,-2474</Position>
+  <Zoom>
+    <FitToWindow/>
+  </Zoom>
+  <Digitize>
+    <IgnorePixels>1</IgnorePixels>
+    <LineIDMethod>2</LineIDMethod>
+  </Digitize>
+  <AutoTrace>
+    <TraceDistance>8</TraceDistance>
+    <SmoothLines>1</SmoothLines>
+  </AutoTrace>
+  <DigitizeArea>
+    <LineOrArea>0</LineOrArea>
+    <RotateAngle>0.000000</RotateAngle>
+    <dx>8.000000</dx>
+  </DigitizeArea>
+  <GridSettings>
+    <ShowGrid>1</ShowGrid>
+    <AreaType>1</AreaType>
+    <deltaX>1.00000000000000e+000</deltaX>
+    <deltaY>1.00000000000000e+003</deltaY>
+    <deltaXUnits>1</deltaXUnits>
+    <deltaYUnits>1</deltaYUnits>
+    <GoThroughX>1.00000000000000e+000</GoThroughX>
+    <GoThroughY>0.00000000000000e+000</GoThroughY>
+    <dx>100.000000</dx>
+    <dy>100.000000</dy>
+  </GridSettings>
+</GetDataWorkspace>
