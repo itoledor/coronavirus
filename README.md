@@ -1,15 +1,11 @@
 # COVID19 Casos confirmados en Chile
 
-Este programa recolecta los datos sobre casos confirmados de COVID19 en Chile actualizados por el Ministerio de Salud. Los datos se descargan y almacenan en un archivo *.csv* por cada d韆. Los archivos se leen y se actualiza la visualizaci髇 de los casos totales desagregada por regi髇. La imagen se almacena y se comparte por Twitter de forma autom醫ica a las 12:00 horas de cada d韆.
+Este programa recolecta los datos sobre casos confirmados de COVID19 en Chile actualizados por el Ministerio de Salud. Los datos se descargan y almacenan en un archivo *.csv* por cada d铆a. Los archivos se leen y se actualiza la visualizaci贸n de los casos totales desagregada por regi贸n. La imagen se almacena y se comparte por Twitter de forma autom谩tica a las 12:00 horas de cada d铆a.
 
-![](figs/covid19_chile_2020-03-26_1.png)
+![](figs/covid19_chile_2020-03-25_2.png)
 
-![](figs/covid19_chile_2020-03-26_2.png)
+La informaci贸n contenida en la imagen es la misma publicada diariamente por el Ministerio de Salud y tiene como 煤nica finalidad la difusi贸n de la informaci贸n de la evoluci贸n del COVID19 en Chile. Los datos son p煤blicos, por favor utilizar con responsabilidad.
 
-![](figs/covid19_chile_2020-03-26_test.png)
+Debo aclarar que no soy especialista en Epidemiolog铆a ni en campos relacionados, si usted tampoco es un especialista en el 谩rea por favor abst茅ngase de correr regresiones, modelos y/o generar proyecciones, esto podr铆a generar percepciones erradas sobre fen贸meno y tener consecuencias no deseadas. 
 
-La informaci髇 contenida en la imagen es la misma publicada diariamente por el Ministerio de Salud y tiene como 鷑ica finalidad la difusi髇 de la informaci髇 de la evoluci髇 del COVID19 en Chile. Los datos son p鷅licos, por favor utilizar con responsabilidad.
-
-Debo aclarar que no soy especialista en Epidemiolog韆 ni en campos relacionados, si usted tampoco es un especialista en el 醨ea por favor abst閚gase de correr regresiones, modelos y/o generar proyecciones, esto podr韆 generar percepciones erradas sobre fen髆eno y tener consecuencias no deseadas. 
-
-Y lo m醩 importante, reiterar la importancia de medidas preventivas como el lavado frecuente de manos y el distanciamiento social. Juntos podemos #AplanarLaCurva.
+Y lo m谩s importante, reiterar la importancia de medidas preventivas como el lavado frecuente de manos y el distanciamiento social. Juntos podemos #AplanarLaCurva.
