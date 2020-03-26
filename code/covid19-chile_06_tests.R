@@ -24,3 +24,5 @@ covid19_chile_gg_test <- covid19_chile_gg_test %+% labs(subtitle = "Al día 23 de
 covid19_chile_gg_test <- covid19_chile_gg_test %+% labs(caption = "Fuente: http://epi.minsal.cl/\r\n @NachoToledoR") 
 
 ggsave(here("figs",paste0("covid19_chile_",Sys.Date(),"_test.png")), covid19_chile_gg_test, width = 6, height = 4)
+
+write_csv2(data_test, here("data", paste0("covid19_chile_",Sys.Date(),"_tests.csv")))
