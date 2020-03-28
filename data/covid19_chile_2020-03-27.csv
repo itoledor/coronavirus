@@ -1,0 +1,18 @@
+region;casos_nuevos;casos_totales;casos_recuperados;casos_fallecidos;fecha
+Arica y Parinacota;  0;   3;NA;0;2020-03-27
+Tarapacá;  0;   5;NA;0;2020-03-27
+Antofagasta;  1;  21;NA;0;2020-03-27
+Atacama;  0;   1;NA;0;2020-03-27
+Coquimbo;  1;  14;NA;0;2020-03-27
+Valparaíso;  5;  49;NA;0;2020-03-27
+Metropolitana;192; 938;NA;3;2020-03-27
+O’Higgins;  2;  16;NA;0;2020-03-27
+Maule;  1;  32;NA;0;2020-03-27
+Ñuble; 30; 144;NA;0;2020-03-27
+Biobío; 26; 135;NA;2;2020-03-27
+Araucanía; 32; 143;NA;0;2020-03-27
+Los Ríos;  8;  22;NA;0;2020-03-27
+Los Lagos;  3;  63;NA;0;2020-03-27
+Aysén;  0;   2;NA;0;2020-03-27
+Magallanes;  3;  22;NA;0;2020-03-27
+Total;304;1610;43;5;2020-03-27
