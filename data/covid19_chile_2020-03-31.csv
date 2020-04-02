@@ -1,0 +1,18 @@
+region;casos_nuevos;casos_totales;casos_recuperados;casos_fallecidos;fecha
+Arica y Parinacota;  2;   6;NA; 0;1986
+Tarapacá;  2;   8;NA; 0;1986
+Antofagasta;  8;  35;NA; 0;1986
+Atacama;  0;   2;NA; 0;1986
+Coquimbo;  9;  27;NA; 0;1986
+Valparaíso; 28; 108;NA; 1;1986
+Metropolitana;128;1295;NA; 4;1986
+O’Higgins;  0;  21;NA; 0;1986
+Maule; 12;  54;NA; 1;1986
+Ñuble; 32; 229;NA; 0;1986
+Biobío; 16; 201;NA; 2;1986
+Araucanía; 42; 247;NA; 4;1986
+Los Ríos;  7;  47;NA; 0;1986
+Los Lagos; 24; 128;NA; 0;1986
+Aysén;  0;   2;NA; 0;1986
+Magallanes;  0;  39;NA; 0;1986
+Total;310;2449;156;12;1986
