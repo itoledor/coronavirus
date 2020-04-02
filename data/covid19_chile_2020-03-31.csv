@@ -1,18 +1,18 @@
 region;casos_nuevos;casos_totales;casos_recuperados;casos_fallecidos;fecha
-Arica y Parinacota;  2;   6;NA; 0;1986
-Tarapacá;  2;   8;NA; 0;1986
-Antofagasta;  8;  35;NA; 0;1986
-Atacama;  0;   2;NA; 0;1986
-Coquimbo;  9;  27;NA; 0;1986
-Valparaíso; 28; 108;NA; 1;1986
-Metropolitana;128;1295;NA; 4;1986
-O’Higgins;  0;  21;NA; 0;1986
-Maule; 12;  54;NA; 1;1986
-Ñuble; 32; 229;NA; 0;1986
-Biobío; 16; 201;NA; 2;1986
-Araucanía; 42; 247;NA; 4;1986
-Los Ríos;  7;  47;NA; 0;1986
-Los Lagos; 24; 128;NA; 0;1986
-Aysén;  0;   2;NA; 0;1986
-Magallanes;  0;  39;NA; 0;1986
-Total;310;2449;156;12;1986
+Antofagasta;  0;  35;NA; 0;2020-03-31
+Araucanía; 55; 302;NA; 4;2020-03-31
+Arica y Parinacota;  0;   6;NA; 0;2020-03-31
+Atacama;  0;   2;NA; 0;2020-03-31
+Aysén;  0;   2;NA; 0;2020-03-31
+Biobío; 15; 216;NA; 2;2020-03-31
+Coquimbo;  1;  28;NA; 0;2020-03-31
+Los Lagos; 23; 151;NA; 0;2020-03-31
+Los Ríos; 11;  58;NA; 0;2020-03-31
+Magallanes; 24;  63;NA; 0;2020-03-31
+Maule;  8;  62;NA; 1;2020-03-31
+Metropolitana;125;1420;NA; 4;2020-03-31
+O’Higgins;  2;  23;NA; 0;2020-03-31
+Tarapacá;  2;  10;NA; 0;2020-03-31
+Valparaíso;  7; 115;NA; 1;2020-03-31
+Ñuble; 16; 245;NA; 0;2020-03-31
+Total;289;2738;156;12;2020-03-31
