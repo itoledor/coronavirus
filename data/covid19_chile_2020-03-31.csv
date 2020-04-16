@@ -1,18 +1,18 @@
-region;casos_nuevos;casos_totales;casos_recuperados;casos_fallecidos;fecha
-Antofagasta;  0;  35;NA; 0;2020-03-31
-Araucanía; 55; 302;NA; 4;2020-03-31
-Arica y Parinacota;  0;   6;NA; 0;2020-03-31
-Atacama;  0;   2;NA; 0;2020-03-31
-Aysén;  0;   2;NA; 0;2020-03-31
-Biobío; 15; 216;NA; 2;2020-03-31
-Coquimbo;  1;  28;NA; 0;2020-03-31
-Los Lagos; 23; 151;NA; 0;2020-03-31
-Los Ríos; 11;  58;NA; 0;2020-03-31
-Magallanes; 24;  63;NA; 0;2020-03-31
-Maule;  8;  62;NA; 1;2020-03-31
-Metropolitana;125;1420;NA; 4;2020-03-31
-O’Higgins;  2;  23;NA; 0;2020-03-31
-Tarapacá;  2;  10;NA; 0;2020-03-31
-Valparaíso;  7; 115;NA; 1;2020-03-31
-Ñuble; 16; 245;NA; 0;2020-03-31
-Total;289;2738;201;12;2020-03-31
+region,casos_nuevos,casos_totales,casos_recuperados,casos_fallecidos,fecha
+Antofagasta,0,35,NA,0,2020-03-31
+Araucanía,55,302,NA,4,2020-03-31
+Arica y Parinacota,0,6,NA,0,2020-03-31
+Atacama,0,2,NA,0,2020-03-31
+Aysén,0,2,NA,0,2020-03-31
+Biobío,15,216,NA,2,2020-03-31
+Coquimbo,1,28,NA,0,2020-03-31
+Los Lagos,23,151,NA,0,2020-03-31
+Los Ríos,11,58,NA,0,2020-03-31
+Magallanes,24,63,NA,0,2020-03-31
+Maule,8,62,NA,1,2020-03-31
+Metropolitana,125,1420,NA,4,2020-03-31
+O’Higgins,2,23,NA,0,2020-03-31
+Tarapacá,2,10,NA,0,2020-03-31
+Valparaíso,7,115,NA,1,2020-03-31
+Ñuble,16,245,NA,0,2020-03-31
+Total,289,2738,201,12,2020-03-31
