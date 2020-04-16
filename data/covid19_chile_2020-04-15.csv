@@ -1,0 +1,18 @@
+region;casos_nuevos;casos_totales;casos_recuperados;casos_fallecidos;fecha
+Arica y Parinacota;  4; 124;NA; 1;2020-04-15
+Tarapacá;  0;  62;NA; 0;2020-04-15
+Antofagasta; 21; 176;NA; 1;2020-04-15
+Atacama;  0;  13;NA; 0;2020-04-15
+Coquimbo;  0;  66;NA; 0;2020-04-15
+Valparaíso; 14; 299;NA; 2;2020-04-15
+Metropolitana;248;4334;NA;41;2020-04-15
+O’Higgins;  1;  54;NA; 0;2020-04-15
+Maule; 10; 152;NA; 4;2020-04-15
+Ñuble; 12; 634;NA; 8;2020-04-15
+Biobío; 14; 542;NA; 2;2020-04-15
+Araucanía; 10; 826;NA;21;2020-04-15
+Los Ríos;  2; 150;NA; 3;2020-04-15
+Los Lagos;  5; 390;NA; 5;2020-04-15
+Aysén;  0;   7;NA; 0;2020-04-15
+Magallanes; 15; 444;NA; 6;2020-04-15
+Total;356;8273;2937;94;2020-04-15
