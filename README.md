@@ -2,9 +2,9 @@
 
 Este programa recolecta los datos sobre casos confirmados de COVID19 en Chile actualizados por el Ministerio de Salud. Los datos se descargan y almacenan en un archivo *.csv* por cada día. Los archivos se leen y se actualiza la visualización de los casos totales desagregada por región. La imagen se almacena y se comparte por Twitter de forma automática a las 12:00 horas de cada día.
 
-![](figs/covid19_chile_2020-03-26_1.png)
+![](figs/covid19_chile_2020-04-16_1.png)
 
-![](figs/covid19_chile_2020-03-26_2.png)
+![](figs/covid19_chile_2020-04-16_2.png)
 
 ![](figs/covid19_chile_2020-03-26_test.png)
 
